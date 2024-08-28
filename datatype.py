@@ -1,0 +1,9 @@
+x="Manish"
+y=5
+z=3.0
+print(x) 
+print(type(x))
+print(y)
+print(type(y))
+print(z)
+print(type(z))
